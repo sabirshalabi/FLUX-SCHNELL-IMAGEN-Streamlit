@@ -1,4 +1,4 @@
-     streamlit
-     replicate
-     dotenv
-     requests
+streamlit
+replicate
+python-dotenv
+requests
